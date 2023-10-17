@@ -12,7 +12,10 @@ Tema:
 ## Sobre 
 Exercícios do Beecrowd com nível 5 ou mais.
 
+- [Agente 004 - 1806](https://www.beecrowd.com.br/repository/UOJ_1806.html)
+
 ## Screenshots
+![Accepted 1806](Agente_004_1806/img/1806.png)
 
 ## Link da apresentação
 O arquivo do vídeo está presente [aqui]().
@@ -20,7 +23,7 @@ O arquivo do vídeo está presente [aqui]().
 Ou pode acessá-lo pelo link:
 
 ## Instalação 
-**Linguagem**: C<br>
+**Linguagem**: C e Python<br>
 [Tutorial de instalação](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation?view=msvc-170)
 
 ## Uso 
