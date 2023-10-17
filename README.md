@@ -20,7 +20,8 @@ Exercícios do Beecrowd com nível 5 ou mais.
 ![Accepted 1423](A_aventura_de_Super_Mario_1423/img/1423.png)
 
 ## Link da apresentação
-O arquivo do vídeo está presente [aqui]().
+O arquivo do vídeo do exercício 1423 está presente [aqui](A_aventura_de_Super_Mario_1423/img/1423.mp4).
+O arquivo do vídeo do exercício 1806 está presente [aqui](Agente_004_1806/img/1806.mp4).
 
 Ou pode acessá-lo pelo link:
 
