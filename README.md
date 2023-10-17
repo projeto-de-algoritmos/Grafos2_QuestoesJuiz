@@ -17,7 +17,7 @@ Exercícios do Beecrowd com nível 5 ou mais.
 
 ## Screenshots
 ![Accepted 1806](Agente_004_1806/img/1806.png)
-![Accepted 1454](O_País_das_Bicicletas_1454/img/1454.png)
+![Accepted 1423](A_aventura_de_Super_Mario_1423/img/1423.png)
 
 ## Link da apresentação
 O arquivo do vídeo está presente [aqui]().
