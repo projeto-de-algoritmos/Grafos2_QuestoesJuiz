@@ -33,8 +33,6 @@ O arquivo do vídeo do exercício 1148 está presente [aqui](Countries_at_War_11
 O arquivo do vídeo do exercício 1152 está presente [aqui](Dark_Roads_1152/img/1152.mp4).
 
 
-Ou pode acessá-lo pelo link:
-
 ## Instalação 
 **Linguagem**: C e Python<br>
 [Tutorial de instalação C](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation?)
